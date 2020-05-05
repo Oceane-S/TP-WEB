@@ -5,44 +5,88 @@
 	}
 }
 
+
 #influence{
 	background-image: url(../image1.jpg);
 	background-position:center;
-}
+	font-family: Open Sans,Arial,Helvetica,sans-serif;
+}	
+
+
 
 #influence h2{
-	font-family:Open Sans,Arial,Helvetica,sans-serif;
-	color: #ebdec2;
-	font-size:17px;
+	color: rgb(235, 222, 194);
+	text-align: right;
 	font-weight:400;
+	font-size:17px;
 	text-transform: uppercase;
-	text-align:right;
-	padding-top:70px;
-}
+	padding-top:80px;
+}	
 
 #influence h1{
-    font-family:Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
 	color: white;
-	font-size:50px;
+	text-align: right;
 	font-weight:700;
-	text-align:right;
-}
+	font-size:52px;
+	margin-bottom:20px;
+}	
+	
 
 #influence p{
-     font-family:Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
-	color: #ebdec2;
-	font-size: 17px;
-	font-weight:400;
+	color: rgb(235, 222, 194);
+	font-size:17px;
 	text-align:right;
+	margin-bottom:30px;
+}	
+
+#influence a{
+	display: inline-block;
+	padding:10px 30px;
+	border: 1px solid orange;
+	color:orange;
+	text-transform: uppercase;
+	text-decoration: none;	
+	margin-bottom:70px;
 }
-#influence a {
-    border: 1px solid #c77e19;
-    color:#f7b10a;
-    font-size:18px;
-    font-weight: 400;
-    text-align: center;
-    text-transform: uppercase;
-    margin-top: 30px;
-    padding: 12px 30px;
-  
+
+
+#avenement {
+    background-image: url(../image2.jpg);
+	background-position:center;
+	font-family: Open Sans,Arial,Helvetica,sans-serif;
+}
+
+#avenement h2{
+	color: rgb(235, 222, 194);
+	text-align: left;
+	font-weight:400;
+	font-size:17px;
+	text-transform: uppercase;
+	padding-top:80px;
+}	
+
+#avenement h1{
+	color: white;
+	text-align: left;
+	font-weight:700;
+	font-size:52px;
+	margin-bottom:20px;
+}	
+	
+
+#avenement p{
+	color: rgb(235, 222, 194);
+	font-size:17px;
+	text-align:left;
+	margin-bottom:30px;
+}	
+
+#avenement a{
+	display: inline-block;
+	padding:10px 30px;
+	border: 1px solid orange;
+	color:orange;
+	text-transform: uppercase;
+	text-decoration: none;	
+	margin-bottom:70px;
 }
