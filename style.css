@@ -35,4 +35,14 @@
 	font-weight:400;
 	text-align:right;
 }
-
+#influence a {
+    border: 1px solid #c77e19;
+    color:#f7b10a;
+    font-size:18px;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 30px;
+    padding: 12px 30px;
+  
+}
