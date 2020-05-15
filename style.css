@@ -47,14 +47,18 @@
 	text-transform: uppercase;
 	text-decoration: none;	
 	margin-bottom:70px;
+
 }
 
 
-#avenement {
-    background-image: url(../image2.jpg);
+
+#avenement{
+	background-image: url(../image2.jpg);
 	background-position:center;
 	font-family: Open Sans,Arial,Helvetica,sans-serif;
-}
+}	
+
+
 
 #avenement h2{
 	color: rgb(235, 222, 194);
@@ -84,9 +88,40 @@
 #avenement a{
 	display: inline-block;
 	padding:10px 30px;
+	border: 1px solid #ea3012;
+	color:#ffd36b;
+	text-transform: uppercase;
+	text-decoration: none;	
+	margin-bottom:70px;
+	background-color:rgba(159, 22, 0, 0.6);
+	margin-right:20px;
+	outline: 1px solid black;
+}
+
+
+#avenement a.ensavoir{
+
 	border: 1px solid orange;
 	color:orange;
 	text-transform: uppercase;
 	text-decoration: none;	
 	margin-bottom:70px;
+	background-color:rgba(0, 0, 0, 0.4);
 }
+
+
+#vision{
+	font-family: Open Sans,Arial,Helvetica,sans-serif;
+}	
+
+#vision h5{
+	color: #D6C9B0 ;
+    text-align: center;
+    font-size: 18px;
+}	
+#vision h1{
+	color: #F8B700 ;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}	
